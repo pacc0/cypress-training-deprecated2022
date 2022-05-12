@@ -1,0 +1,28 @@
+{
+  "name": "cypress-training",
+  "version": "1.0.0",
+  "description": "This is a Workshop about Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacc0/cypress-training.git"
+  },
+  "keywords": [
+    "ui-testing",
+    "dojo",
+    "practice",
+    "cypress"
+  ],
+  "author": "[Camilo Fuentes] <[camilofu94@gmail.com]> ([pacc0])",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pacc0/cypress-training/issues"
+  },
+  "homepage": "https://github.com/pacc0/cypress-training#readme",
+  "dependencies": {
+    "cypress": "^9.6.1"
+  }
+}
